@@ -1,0 +1,11 @@
+plugins:
+  - rubocop-rake
+  - rubocop-rspec
+
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 4.0.1
+
+RSpec/SpecFilePathFormat:
+  CustomTransform:
+    IPs: ips
