@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fastly-ips (1.0.0)
+    fastly-ips (1.0.1)
       rails
 
 GEM
@@ -332,7 +332,7 @@ CHECKSUMS
   erubi (1.13.1) sha256=a082103b0885dbc5ecf1172fede897f9ebdb745a4b97a5e8dc63953db1ee4ad9
   ethon (0.18.0) sha256=b598afc9f30448cb068b850714b7d6948e941476095d04f90a4ac65b8d6efcb2
   fastly (16.0.0) sha256=9a8b8d8d409bd2702f775e4f35863047164ce34f66f46de678a2587a431bf7f1
-  fastly-ips (1.0.0)
+  fastly-ips (1.0.1)
   ffi (1.17.3-aarch64-linux-gnu) sha256=28ad573df26560f0aedd8a90c3371279a0b2bd0b4e834b16a2baa10bd7a97068
   ffi (1.17.3-aarch64-linux-musl) sha256=020b33b76775b1abacc3b7d86b287cef3251f66d747092deec592c7f5df764b2
   ffi (1.17.3-arm-linux-gnu) sha256=5bd4cea83b68b5ec0037f99c57d5ce2dd5aa438f35decc5ef68a7d085c785668
