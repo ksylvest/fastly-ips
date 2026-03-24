@@ -25,13 +25,13 @@ module Fastly
       185.31.16.0/22
       199.27.72.0/21
       199.232.0.0/16
-    ].freeze
+    ].map { |proxy| IPAddr.new(proxy) }.freeze
 
     IPS_V6 = %w[
       2a04:4e40::/32
       2a04:4e42::/32
-    ].freeze
+    ].map { |proxy| IPAddr.new(proxy) }.freeze
 
-    IPS = IPS_V4 + IPS_V6
+    IPS = (IPS_V4 + IPS_V6).freeze
   end
 end
