@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version     = Fastly::IPs::VERSION
   spec.authors     = ['Kevin Sylvestre']
   spec.email       = ['kevin@ksylvest.com']
-  spec.homepage    = 'https://github.com/ksylvest/fastly_ips'
+  spec.homepage    = 'https://github.com/ksylvest/fastly-ips'
   spec.summary     = 'A library to configure Fastly trusted IPs.'
   spec.description = 'This library ensures Fastly IPs are trusted with by Ruby on Rails applications.'
   spec.license     = 'MIT'
