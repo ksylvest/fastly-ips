@@ -96,7 +96,7 @@ GEM
     ethon (0.18.0)
       ffi (>= 1.15.0)
       logger
-    fastly (17.0.0)
+    fastly (17.1.0)
       typhoeus (~> 1.0, >= 1.0.1)
     ffi (1.17.4-aarch64-linux-gnu)
     ffi (1.17.4-aarch64-linux-musl)
@@ -326,7 +326,7 @@ CHECKSUMS
   erb (6.0.6) sha256=a9b24986700f5bf127c4f297c5403c3ca41b83b0a316c0cd09a096b56e644ae5
   erubi (1.13.1) sha256=a082103b0885dbc5ecf1172fede897f9ebdb745a4b97a5e8dc63953db1ee4ad9
   ethon (0.18.0) sha256=b598afc9f30448cb068b850714b7d6948e941476095d04f90a4ac65b8d6efcb2
-  fastly (17.0.0) sha256=b786dbc30a20aa746b1b33e8cfacd9b1b456259c9f6bd5603b40b32d77bd7b78
+  fastly (17.1.0) sha256=34149eac6deba1d08560727a54ff795f8ae17b877022974a7c146d6dabaf68a7
   fastly-ips (1.0.1)
   ffi (1.17.4-aarch64-linux-gnu) sha256=b208f06f91ffd8f5e1193da3cae3d2ccfc27fc36fba577baf698d26d91c080df
   ffi (1.17.4-aarch64-linux-musl) sha256=9286b7a615f2676245283aef0a0a3b475ae3aae2bb5448baace630bb77b91f39
